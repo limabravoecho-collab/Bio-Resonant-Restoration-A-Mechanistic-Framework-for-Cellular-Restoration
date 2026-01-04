@@ -4,6 +4,14 @@
 
 Cellular aging and pathogen-induced damage represent fundamental challenges in regenerative medicine. Current therapeutic approaches rely predominantly on chemical interventions that generate systemic side effects and fail to address the underlying loss of cellular homeostatic memory. We present a mechanistic framework proposing that cells retain epigenetic memory of their healthy equilibrium state, and that targeted acoustic resonance can reactivate this memory through piezoelectric signal transduction. This framework comprises two distinct operational modes: (1) constructive resonance for cellular restoration via entrainment-based epigenetic reactivation, and (2) destructive resonance for selective pathogen elimination via acoustic cavitation-induced membrane disruption. Both modes leverage established principles from epigenetic reprogramming, piezoelectric biomaterials, and acoustic impedance physics. We provide testable experimental protocols and identify specific parameters requiring empirical characterization. This framework offers a research pathway for developing non-pharmacological cellular restoration therapies with potential applications in aging reversal, neurodegenerative disease, oncology, and infectious disease treatment.
 
+Dependencies
+
+https://github.com/limabravoecho-collab/unified-attractor-complexity-model
+
+https://github.com/limabravoecho-collab/unified-attractor-complexity-model-how-and-why-A-Dual-Framework-Cosmology
+
+https://github.com/limabravoecho-collab/Bio-Resonant-Restoration-A-Mechanistic-Framework-for-Cellular-Restoration
+
 **Keywords:** Epigenetic memory, piezoelectric stimulation, acoustic resonance, cellular restoration, partial reprogramming, acoustic cavitation, pathogen elimination
 
 ---
